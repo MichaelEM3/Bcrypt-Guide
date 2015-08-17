@@ -1,7 +1,5 @@
 # Bcrypt-Guide
 
-## Bcrypt Login Guide:
-
 Uncomment Bcrypt gem in Gemfile line 27:
 ```ruby
 gem 'bcrypt', '~>3.1.7'
